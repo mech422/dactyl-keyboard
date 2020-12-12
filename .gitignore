@@ -9,3 +9,8 @@
 *.scad
 /target
 .idea/
+.vscode/
+things/left_og_py.step
+things/plate_og_py.dxf
+things/plate_og_py.step
+things/right_og_py.step
